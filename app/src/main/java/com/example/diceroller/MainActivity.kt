@@ -72,3 +72,4 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier) {
 
         }
     }
+//By SEM Uriel
